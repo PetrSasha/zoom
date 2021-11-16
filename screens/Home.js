@@ -5,6 +5,7 @@ import Header from '../components/Header'
 import MenuButtons from '../components/MenuButtons'
 import SearchBar from '../components/SearchBar'
 
+
 const Home = () => {
     return (
         <View style={styles.container}>
