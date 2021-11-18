@@ -21,7 +21,7 @@ const contacts = [
 
 const ContactsMenu = () => {
     return (
-        <View style={styles.container}>
+        <View style={styles.container}> 
 
             <View style={styles.row}>
                  {/* img */}
